@@ -1,4 +1,4 @@
-![LOGO](figures/logo.jpg)
+![LOGO](figures/logo.jpeg)
 
 ---
 
