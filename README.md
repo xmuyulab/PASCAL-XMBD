@@ -13,7 +13,7 @@ a. Set up a python environment (conda virtual environment is recommended).
 
 ```shell
 conda create -n pascal python=3.8
-git clone <REPO_URL>
+git clone https://github.com/xmuyulab/PASCAL-XMBD
 cd PASCAL
 conda activate pascal
 ```
@@ -70,7 +70,7 @@ python run.py -data <DATASET_ID>
 **Arguments**
 
 - `data`: Input dataset identifier. This identifier must be registered in `config.py`:
-    
+  
     - `TEST_DATA_PATHS[DATASET_ID]`: path to the input .h5ad file
     - `MARKER_PRIOR_PATHS[DATASET_ID]`: path to the corresponding marker prior table
 
