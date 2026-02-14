@@ -1,4 +1,7 @@
-# PASCAL
+![LOGO](figures/logo.jpg)
+
+---
+
 PASCAL (**P**ropagation **A**lgorithm for **S**emi-supervised **C**ell-type **A**ssignment and **L**abeling) is a framework that leverages cell-cell similarity and graph-based label propagation for accurate and generalizable automatic cell-type annotation.
 
 ![Workflow](figures/pascal.jpg)
